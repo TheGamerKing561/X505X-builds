@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <!-- device -->
+    <project path="device/lenovo/X505X" name="TheGamerKing561/device_lenovo_X505X" clone-depth="100" revision="lineage-17.1" />
+</manifest>
