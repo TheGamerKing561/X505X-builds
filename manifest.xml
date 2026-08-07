@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
     <!-- device -->
-    <project path="device/lenovo/X505X" name="TheGamerKing561/device_lenovo_X505X" clone-depth="100" revision="lineage-17.1" />
+    <project path="device/lenovo/X505X" name="TheGamerKing561/android_device_lenovo_X505X" clone-depth="100" revision="lineage-17.1" />
 
+    <!-- vendor -->
+    <project path="vendor/lenovo/X505X" name="TheGamerKing561/proprietary_vendor_lenovo_X505X" clone-depth="100" revision="lineage-17.1" />
+    
     <!-- keys -->
     <project path="vendor/lineage-priv/keys" name="TheGamerKing561/android_vendor_lineage-priv_keys" revision="lineage-22.2" />
 </manifest>
